@@ -1,4 +1,5 @@
 ---
+huggingFacesURL: https://huggingface.co/spaces/shweta0812/Bear-Classifier
 title: Bear Classifier
 emoji: 🐨
 colorFrom: red
